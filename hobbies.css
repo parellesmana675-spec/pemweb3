@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #08700f;
+    padding: 15px;
+}
+
+h5 {
+    font-size: 10px;
+    margin-bottom: 5px;
+    color: #fcfcfc;
+}
+
+.container {
+    width: 155px;
+    padding: 5px;
+    border: 1px solid #080808;
+    background-color: rgb(81, 94, 5);
+}
+
+h1 {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+}
+
+h2 {
+    font-family: "Times New Roman", serif;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 14px;
+}
+
+p, li {
+    font-family: "Times New Roman", serif;
+    font-size: 14px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ul, ol {
+    padding-left: 32px;
+    margin-top: 10px;
+    margin-bottom: 14px;
+}
